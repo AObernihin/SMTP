@@ -11,7 +11,7 @@ namespace SMTP
             string host = "smtp.gmail.com";
             int port = 587;
             string email = "arsenobernihin@gmail.com" ;
-            string password = "hmki dblc xdks fpck";
+            string password = "#### #### #### ####";
 
             SmtpClient smtpClient = new SmtpClient(host, port);
             smtpClient.EnableSsl = true;
